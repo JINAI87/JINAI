@@ -4,3 +4,10 @@ primaryColor = "#60A5FA"
 backgroundColor = "#0E1117"
 secondaryBackgroundColor = "#161B22"
 textColor = "#FAFAFA"
+
+[client]
+toolbarMode = "minimal"
+showErrorDetails = false
+
+[server]
+enableStaticServing = true
