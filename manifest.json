@@ -1,0 +1,16 @@
+{
+  "name": "Jin AI",
+  "short_name": "Jin AI",
+  "description": "Jin AI Assistant Application",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0e1117",
+  "theme_color": "#0e1117",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/4712/4712035.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
